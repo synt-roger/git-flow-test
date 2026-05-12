@@ -15,3 +15,6 @@
 // stg fix: coupon duplicate check
 // notification service
 // push notification
+// point earn logic
+// point redeem logic
+// point history
