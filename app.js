@@ -5,3 +5,5 @@
 // type fix
 // email validation fix
 // stg password length fix
+// payment api
+// payment validation
