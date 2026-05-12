@@ -18,3 +18,4 @@
 // point earn logic
 // point redeem logic
 // point history
+// point fix: negative balance check
