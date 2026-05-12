@@ -11,3 +11,4 @@
 // coupon base
 // coupon validation
 // coupon expiry
+// coupon fix: min amount
